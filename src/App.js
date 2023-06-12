@@ -16,7 +16,7 @@ function App() {
     foto: "https://github.com/harlandlohora.png",
     nombre: "Harland Lohora",
     puesto: "Instructor",
-    fav: true
+    fav: false
   },
   {
     id: uuidv4(),
